@@ -6,9 +6,9 @@ Can we distinguish scripted interview questions from questions that are personal
 
 This project analyzes the Anthropic Interviewer dataset to estimate how many interview questions change across three populations:
 
-- Workforce
-- Creatives
-- Scientists
+- Workforce = 1,000 interviews
+- Creatives = 125 interviews 
+- Scientists = 125 interviews
 
 I built a three-layer classifier:
 
