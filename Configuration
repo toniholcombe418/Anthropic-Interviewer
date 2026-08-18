@@ -1,0 +1,12 @@
+## Configuration Table
+
+| Parameter | Value |
+|---|---|
+| Embedding model | `all-mpnet-base-v2` |
+| Spine reach | 20% |
+| HDBSCAN min cluster size | `max(15, interviews / 20)` |
+| Cluster merge cosine | 0.80 |
+| Verbatim similarity | 0.90 |
+| Personalized similarity | 0.60 |
+| Personalized coverage | 0.45 |
+| Personalized sequence | 0.40 |
